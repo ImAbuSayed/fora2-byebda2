@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين في عتمة ليلي
+> روحي تناديك بصمت طويل
+> بين النجوم أرى طيفك يمر
+> نار الأشواق في صدري تستمر
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
